@@ -1,5 +1,7 @@
 # Tragaperras_JSP
 
-<img src=\"captura3.jpg\">" <br><br>
-<img src=\"captura2.jpg\">" <br><br>
-<img src=\"captura1.jpg\">"
+<h2>Ejercicio de tragaperras<h2>
+
+<img src=\"Captura3.jpg\">" <br><br>
+<img src=\"Captura2.jpg\">" <br><br>
+<img src=\"Captura1.jpg\">"
