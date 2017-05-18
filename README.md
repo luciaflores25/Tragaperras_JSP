@@ -1,7 +1,7 @@
 # Tragaperras_JSP
 
-<h2>Ejercicio de tragaperras<h2>
+<p>Este programa simula a una máquina tragaperras<p>
 
-<img src="Captura3.jpg"> <br><br>
-<img src="Captura2.jpg"> <br><br>
-<img src="Captura1.jpg">
+<img src="Captura3.JPG"> <br><br>
+<img src="Captura2.JPG"> <br><br>
+<img src="Captura1.JPG">
