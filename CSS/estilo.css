@@ -1,0 +1,44 @@
+h1{
+  font-family: 'Bungee Shade', cursive;
+  font-size: 60px;
+  transition: 1s;
+}
+
+h1:hover{
+  font-family: 'Bungee Shade', cursive;
+  transition: 1s;
+  font-size: 70px;  
+  color: green;
+}
+
+img{
+    width:250px;
+    height:200px;
+    -webkit-trasition: width 1s;
+    -webkit-transition: height 1s;
+    -moz-trasition: width 1s;
+    -moz-transition: height 1s;
+    transition: width 1s;
+}
+
+div.tiradas div{
+	float: left;
+}
+
+div.tiradas{
+    font-family: 'Patua One', cursive;
+    font-size: 35px;  
+}
+
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+input{
+    font-family: 'Patua One', cursive;
+    font-size: 30px; 
+    padding: 10px;
+    border-radius: 15px;
+
+}
